@@ -64,7 +64,7 @@ The engine follows a **Scan-Analyze-Destroy** logic flow:
 
 ### 2. Clone & Launch
 ```bash
-git clone [https://github.com/vikrant-project/WP-Vikrant-Mirror.git](https://github.com/vikrant-project/WP-Vikrant-Mirror.git)
+git clone https://github.com/vikrant-project/WP-Vikrant-Mirror
 cd WP-Vikrant-Mirror
 python3 wp_vikrant.py
 ```
